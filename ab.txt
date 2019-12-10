@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 qwer
+=======
+qwewefefefr
+wefe
+>>>>>>> refs/remotes/origin/master
